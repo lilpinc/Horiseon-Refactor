@@ -4,7 +4,7 @@ Horiseon Refactor Module 1 Submission
 
 ## Description
 
-The Horiseon website about search engine optimization, reputation management, and social media marketing.
+The Horiseon website page for search engine optimization, reputation management, and social media marketing.
 
 ## Motivation
 
