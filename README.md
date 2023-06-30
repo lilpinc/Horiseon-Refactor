@@ -1,5 +1,5 @@
-# Module-1-Challenge-Submission
-Module 1 Challenge Submission - Code Refactor
+# Horiseon-Refactor
+Horiseon Refactor Module 1 Submission
 
 
 ## Description
