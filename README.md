@@ -15,6 +15,7 @@ This project was completed to understand how to use semantic tags in HTML and ho
 This project can be used to review semantic HTML tags and attributes. It can also be used to review how to condense css code while maintaining the original look of a webpage.
 
 To utilize, open webpage. https://lilpinc.github.io/Horiseon-Refactor/
+Screenshot: Screen Shot 2023-06-29 at 11.56.18 PM.png
 
 ## Credits
 
